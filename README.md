@@ -12,7 +12,7 @@
 
 ## 技术架构
 
-![系统整体架构图](./architecture.png)
+![系统整体架构图](https://github.com/user-attachments/assets/c60a232e-bb3d-48c1-a7c9-ad6f19df9f38)
 
 | 模块 | 功能 |
 |------|------|
